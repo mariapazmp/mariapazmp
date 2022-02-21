@@ -5,6 +5,7 @@ A designed-oriented Front-end Engineer with +10 years of experience.
 - 🔭 I’m currently working on technical Search Engine Optimizations at Platzi.
 - 🌱 Currently learning Swedish and Redux + React.
 - 💬 Ask me about Specialty Coffee and tech communities.
+- ☕ Colombian, currently living in Sweden.
 - 😄 Pronouns: She/Her/Ella/Hon
 
 <!--
