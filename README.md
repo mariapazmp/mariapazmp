@@ -2,10 +2,11 @@
 I'm María Paz Muñoz Parra.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
-- 🔭 I’m currently working on technical Search Engine Optimizations at Platzi.
-- 🌱 Currently learning Swedish, and Redux + React.
+- 🔭 Sr. Front-end Developer at Strategic 9. 
+- ✨ Building tech community in Malmö.
+- 🌱 Currently learning Swedish & sharping Next.js
 - 💬 Ask me about Specialty Coffee and tech communities.
-- ☕ Colombian, currently living in Sweden.
+- ☕ Colombian, living in Sweden.
 - 😄 Pronouns: She/Her/Ella/Hon
 
 <!--
