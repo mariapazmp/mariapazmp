@@ -3,10 +3,10 @@ I'm María Paz Muñoz Parra.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
 - 🔭 Sr. Front-end Developer at Strategic 9. 
-- ✨ Building tech community in Malmö.
+- ✨ Building tech community in Malmö, Sweden.
 - 🌱 Currently learning Swedish & sharping Next.js
 - 💬 Ask me about Specialty Coffee and tech communities.
-- ☕ Colombian, living in Sweden.
+- ☕ Colombian, latina.
 - 😄 Pronouns: She/Her/Ella/Hon
 
 <!--
