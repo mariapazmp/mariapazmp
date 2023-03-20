@@ -1,5 +1,5 @@
 ### ¡Hola! 👋 Hi there 👋 Hejsan!
-I'm María Paz Muñoz Parra.
+I'm María Paz.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
 - 🔭 Senior Front-end Developer for Inter IKEA @Strategic 9
