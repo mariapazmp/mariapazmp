@@ -2,9 +2,9 @@
 I'm María Paz Muñoz Parra.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
-- 🔭 Sr. Front-end Developer at Strategic 9 - Inter IKEA
+- 🔭 Senior Front-end Developer for Inter IKEA @Strategic 9
+- 🌱 Currently learning SPARQL, webSemantics and Swedish.
 - ✨ Google Developer Organizer, Women Techmaker Ambassador.
-- 🌱 Currently learning Swedish & webComponents
 - 💬 Ask me about Specialty Coffee and tech communities.
 - ☕ Colombian, latina.
 - 😄 Pronouns: She/Her/Ella/Hon
