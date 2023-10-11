@@ -2,7 +2,7 @@
 I'm María Paz.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
-- 🔭 Senior Front-end Developer for Inter IKEA @Strategic 9
+- 🔭 Senior Front-end Developer, now in the role of Accessibility Engineer at IKEA.
 - 🌱 Currently learning SPARQL, webSemantics and Swedish.
 - ✨ Google Developer Organizer, Women Techmaker Ambassador.
 - 💬 Ask me about Specialty Coffee and tech communities.
