@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Hi there 👋 Hejsan!
+### ¡Hola! 👋 Hi there 👋 Tjena!
 I'm María Paz.
 A designed-oriented Front-end Engineer with +10 years of experience.
 
