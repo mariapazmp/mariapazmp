@@ -1,8 +1,8 @@
-### ¡Hola! 👋 Hi there 👋 Tjena!
+### ¡Hola! 👋 Hi there 👋 Hejsan!
 I'm María Paz.
-A designed-oriented Front-end Engineer with +10 years of experience.
+Senior Software Engineer Specialist. Expertise in digital accessibility and front-end technologies, with +13 years of experience.
 
-- 🔭 Senior Front-end Developer, now in the role of Accessibility Engineer at IKEA.
+- 🔭 Accessibility Engineer at Inter IKEA, in Sweden.
 - 🌱 Currently learning SPARQL, webSemantics and Swedish.
 - ✨ Google Developer Organizer, Women Techmaker Ambassador.
 - 💬 Ask me about Specialty Coffee and tech communities.
